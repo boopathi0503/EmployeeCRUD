@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-08-28T12:55:23.4980485Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-08-28T12:09:11.1853376Z"
+    }
+  },
+  "parameters": {
+    "secrets1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "cloud-shell-storage-eastus"
+    },
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "5396f369-f141-490e-8fa6-882f45c51b00"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "EmployeeCRUD20200828160948ResourceGroup"
+    },
+    "secrets1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "5396f369-f141-490e-8fa6-882f45c51b00"
+    }
+  }
+}
