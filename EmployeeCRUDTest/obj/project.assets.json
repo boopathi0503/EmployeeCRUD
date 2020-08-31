@@ -8872,11 +8872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUDTest\\EmployeeCRUDTest.csproj",
+      "projectUniqueName": "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUDTest\\EmployeeCRUDTest.csproj",
       "projectName": "EmployeeCRUDTest",
-      "projectPath": "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUDTest\\EmployeeCRUDTest.csproj",
+      "projectPath": "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUDTest\\EmployeeCRUDTest.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUDTest\\obj\\",
+      "outputPath": "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUDTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -8896,8 +8896,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj": {
-              "projectPath": "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj"
+            "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj": {
+              "projectPath": "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj"
             }
           }
         }

@@ -9100,11 +9100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
+      "projectUniqueName": "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
       "projectName": "EmployeeCRUD",
-      "projectPath": "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
+      "projectPath": "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUD\\obj\\",
+      "outputPath": "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NIVIRFI2XjvmqKohbA+77usax1RWYSv8YZOBCE5gOXdNZjZK0JF2bxWydEAZN+ewfyXtIksAZDinr8QqGhxAfg==",
+  "dgSpecHash": "Hh5I8OKanVFfcmJ7tRpJiilRy9qrOygFUIAASQcN2QzPQpZycZfRpjgXsY0zQBeRqLEClUeceXe8nAxEVcOPmQ==",
   "success": true,
-  "projectFilePath": "C:\\workouts\\Trinity\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
+  "projectFilePath": "C:\\workouts\\Trinity\\GitRepo\\EmployeeCRUD\\EmployeeCRUD\\EmployeeCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.0.2\\azure.core.1.0.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.extensions.aspnetcore.configuration.secrets\\1.0.0\\azure.extensions.aspnetcore.configuration.secrets.1.0.0.nupkg.sha512",
